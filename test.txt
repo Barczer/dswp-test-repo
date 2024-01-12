@@ -1,4 +1,0 @@
-witaj 
-druga linia 
-linia trzecia 
-modyfikacja
